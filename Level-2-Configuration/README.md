@@ -32,6 +32,7 @@ linter-yaml-title-alias: "Level 2: Configuration & Customization - 配置与自�
 
 - [[01-CLAUDE.md使用指南]] - CLAUDE.md 文件结构和项目上下文配置
 - [[01-Claude Code使用其他大模型]] - 模型选择配置和第三方模型使用
+- [[Slash Commands自定义命令指南]] - 自定义 Slash Commands 工作流自动化（新增）
 
 ## 🎯 学习检查点
 
