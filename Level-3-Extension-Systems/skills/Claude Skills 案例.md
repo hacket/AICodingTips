@@ -1,7 +1,7 @@
 ---
 banner:
 date_created: Wednesday, November 12th 2025, 8:47:34 am
-date_updated: Wednesday, November 19th 2025, 11:46:35 pm
+date_updated: Monday, November 24th 2025, 12:01:58 am
 title: Claude Skills 案例
 author: hacket
 categories:
@@ -189,3 +189,5 @@ Ref：
 
 - Explore Claude Skills, And Generate Yours Featuring 175 Up-to-date Claude Skills
 <https://skillshunt.io>
+
+<https://skillsmp.com/zh>
