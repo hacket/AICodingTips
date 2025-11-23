@@ -532,16 +532,16 @@ git worktree remove ../project-feature-a
 
 ### kiro 开发工作流 Spec
 
-见 [[Kiro Spec工作流]]
+见 [Kiro Spec工作流](Kiro%20Spec工作流.md)
 
 ### BMAD-Method
 
-见 [[BMAD Method]]
+见 [BMAD Method](BMAD%20Method.md)
 
 ### GitHub Spec 工作流
 
-见 [[Github Spec Kit]]
+见 [Github Spec Kit](Github%20Spec%20Kit.md)
 
 ### OpenSpec
 
-见 [[OpenSpec]]
+见 [OpenSpec](OpenSpec.md)

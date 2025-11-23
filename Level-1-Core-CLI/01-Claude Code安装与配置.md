@@ -172,7 +172,7 @@ claude
 
 #### 安装和配置 WSL
 
-下面的都要用 PowerShell，用 CMD 不行。更多见：[[WSL]]
+下面的都要用 PowerShell，用 CMD 不行。更多见：[WSL](WSL.md)
 
 - 首先检查 WSL 状态：
 

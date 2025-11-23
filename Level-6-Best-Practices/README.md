@@ -33,16 +33,16 @@ linter-yaml-title-alias: Others - 其他学习资源
 ### 最佳实践与技巧
 
 **核心文档:**
-- [[Claude Code 官方最佳实践]] - Claude Code 官方推荐的最佳实践
-- [[Claude Code 使用技巧]] - 实用的使用技巧总结
-- [[Claude Code个人使用总结]] - 个人实际使用经验和心得
+- [Claude Code 官方最佳实践](Claude%20Code%20官方最佳实践.md) - Claude Code 官方推荐的最佳实践
+- [Claude Code 使用技巧](Claude%20Code%20使用技巧.md) - 实用的使用技巧总结
+- [Claude Code个人使用总结](Claude%20Code个人使用总结.md) - 个人实际使用经验和心得
 
 ### 开源项目参考
 
 **优秀项目:**
-- [[Claude Code 开源/Claude Code 开源项目汇总|Claude Code 开源项目汇总]] - Claude Code 相关开源项目集合
-- [[Claude Code 开源/SuperClaude-V3|SuperClaude-V3]] - SuperClaude V3 项目介绍
-- [[Claude Code 开源/SuperClaude-V4|SuperClaude-V4]] - SuperClaude V4 项目介绍
+- [Claude Code 开源项目汇总](Claude%20Code%20开源/Claude%20Code%20开源项目汇总.md) - Claude Code 相关开源项目集合
+- [SuperClaude-V3](Claude%20Code%20开源/SuperClaude-V3.md) - SuperClaude V3 项目介绍
+- [SuperClaude-V4](Claude%20Code%20开源/SuperClaude-V4.md) - SuperClaude V4 项目介绍
 
 ## 🎯 学习检查点
 

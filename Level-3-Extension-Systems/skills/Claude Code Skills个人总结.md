@@ -203,7 +203,7 @@ Detailed description of the skill's purpose and capabilities.
 
 ## Skills 使用
 
-[[Claude Skills 案例]]
+[Claude Skills 案例](Claude%20Skills%20案例.md)
 
 ## 安全使用 skills
 

@@ -48,4 +48,4 @@ linter-yaml-title-alias: "Level 4: Programmatic Usage - 编程式使用"
 
 ## ⏭️ 下一步
 
-完成 Level 4 后,进入 [[../Level-5-Enterprise/README|Level 5: Enterprise Deployment]]
+完成 Level 4 后,进入 [Level 5: Enterprise Deployment](../Level-5-Enterprise/README.md)

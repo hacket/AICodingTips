@@ -46,7 +46,7 @@ created: 2025-11-04
 
 ### 🚀 SuperClaude (sc) - 24 个命令
 
-**完整文档**: [[sc-commands|SuperClaude Commands 完整指南]]
+**完整文档**: [SuperClaude Commands 完整指南](sc-commands.md)
 
 SuperClaude 是最强大的命令组,提供全面的开发工作流支持。
 
@@ -98,7 +98,7 @@ SuperClaude 是最强大的命令组,提供全面的开发工作流支持。
 
 ### 🐙 GitHub (gh) - 3 个命令
 
-**完整文档**: [[gh-commands|GitHub Commands 使用指南]]
+**完整文档**: [GitHub Commands 使用指南](gh-commands.md)
 
 专业的 GitHub 工作流集成命令。
 
@@ -386,10 +386,10 @@ brainstorm, select-tool, task, workflow
 
 ## 相关资源
 
-- [[sc-commands|SuperClaude Commands 完整指南]]
-- [[gh-commands|GitHub Commands 使用指南]]
-- [[../Level-3-Extension-Systems/Slash-Commands-Guide|Slash Commands 完整指南]]
-- [[../Level-3-Extension-Systems/MCP-Integration|MCP Server 集成]]
+- [SuperClaude Commands 完整指南](sc-commands.md)
+- [GitHub Commands 使用指南](gh-commands.md)
+- [Slash Commands 完整指南](../Level-3-Extension-Systems/Slash-Commands-Guide.md)
+- [MCP Server 集成](../Level-3-Extension-Systems/MCP-Integration.md)
 
 ---
 

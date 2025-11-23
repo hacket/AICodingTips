@@ -44,7 +44,7 @@ linter-yaml-title-alias: Claude Code 开源
 
 ### 【sc】SuperClaude V3/V4
 
-见 [[SuperClaude-V3]]、[[SuperClaude-V4]]
+见 [SuperClaude-V3](SuperClaude-V3.md)、[SuperClaude-V4](SuperClaude-V4.md)
 
 ### ruvnet/claude-flow (截止 20250813 5.8k star)
 

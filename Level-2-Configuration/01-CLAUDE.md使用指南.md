@@ -235,4 +235,4 @@ Claude Code 支持自定义规则文件 `claude.md`，这是许多用户忽视�
 
 ### RMS（Richard Stallman）風格靈感
 
-见 [[RMS（Richard Stallman）風格靈感]]
+见 [RMS（Richard Stallman）風格靈感](RMS（Richard%20Stallman）風格靈感.md)

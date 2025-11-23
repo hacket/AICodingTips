@@ -30,10 +30,10 @@ linter-yaml-title-alias: "Level 1: Core CLI - 核心 CLI"
 
 ## 📖 学习内容
 
-- [[02-Claude Code 基本用法|Claude Code 基本用法]] Claude Code 基本用法
-- [[01-Claude Code安装与配置]] 多平台安装、WSL 配置、认证方式
-- [[04-Claude Code工作流实践]]
-- [[03-Cladue Code常用命令参考]] - 常用命令详解和使用技巧
+- [Claude Code 基本用法](02-Claude%20Code%20基本用法.md) Claude Code 基本用法
+- [01-Claude Code安装与配置](01-Claude%20Code安装与配置.md) 多平台安装、WSL 配置、认证方式
+- [04-Claude Code工作流实践](04-Claude%20Code工作流实践.md)
+- [03-Cladue Code常用命令参考](03-Cladue%20Code常用命令参考.md) - 常用命令详解和使用技巧
 
 ## 🎯 学习检查点
 
@@ -45,4 +45,4 @@ linter-yaml-title-alias: "Level 1: Core CLI - 核心 CLI"
 
 ## ⏭️ 下一步
 
-完成 Level 1 后,进入 [[../Level-2-Configuration/README|Level 2: Configuration & Customization]]
+完成 Level 1 后,进入 [Level 2: Configuration & Customization](../Level-2-Configuration/README.md)

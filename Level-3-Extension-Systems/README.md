@@ -32,11 +32,11 @@ linter-yaml-title-alias: "Level 3: Extension Systems - 扩展系统"
 
 ### 核心文档
 
-- [[01-Sub-Agents使用指南]] - Agent 结构和自定义 Subagent 开发
-- [[01-MCP基础与使用]] - MCP 服务器配置和常用 MCP 服务器
-- [[01-Hooks完全指南]] - Hook Events 和自动化工作流配置
-- [[skills/Claude Agent Skill（官方）|Claude Agent Skill（官方）]] - Skills 系统使用和开发
-- [[skills/Claude Code Skills个人总结|Claude Code Skills个人总结]] - Skills 实践经验总结
+- [01-Sub-Agents使用指南](01-Sub-Agents使用指南.md) - Agent 结构和自定义 Subagent 开发
+- [01-MCP基础与使用](01-MCP基础与使用.md) - MCP 服务器配置和常用 MCP 服务器
+- [01-Hooks完全指南](01-Hooks完全指南.md) - Hook Events 和自动化工作流配置
+- [Claude Agent Skill（官方）](skills/Claude%20Agent%20Skill（官方）.md) - Skills 系统使用和开发
+- [Claude Code Skills个人总结](skills/Claude%20Code%20Skills个人总结.md) - Skills 实践经验总结
 
 ### 工具参考文档
 
@@ -69,4 +69,4 @@ linter-yaml-title-alias: "Level 3: Extension Systems - 扩展系统"
 
 ## ⏭️ 下一步
 
-完成 Level 3 后,进入 [[../Level-4-Programmatic/README|Level 4: Programmatic Usage]]
+完成 Level 3 后,进入 [Level 4: Programmatic Usage](../Level-4-Programmatic/README.md)

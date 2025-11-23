@@ -341,4 +341,4 @@ claude mcp add-json -s user context7 '{ "command": "npx", "args": ["-y", "@upsta
 
 #### Figma
 
-见：[[Mcp-Figma]]
+见：[Mcp-Figma](Mcp-Figma.md)

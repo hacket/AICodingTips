@@ -30,8 +30,8 @@ linter-yaml-title-alias: "Level 2: Configuration & Customization - 配置与自�
 
 ## 📖 学习内容
 
-- [[01-CLAUDE.md使用指南]] - CLAUDE.md 文件结构和项目上下文配置
-- [[01-Claude Code使用其他大模型]] - 模型选择配置和第三方模型使用
+- [01-CLAUDE.md使用指南](01-CLAUDE.md使用指南.md) - CLAUDE.md 文件结构和项目上下文配置
+- [01-Claude Code使用其他大模型](01-Claude%20Code使用其他大模型.md) - 模型选择配置和第三方模型使用
 
 ## 🎯 学习检查点
 
@@ -43,4 +43,4 @@ linter-yaml-title-alias: "Level 2: Configuration & Customization - 配置与自�
 
 ## ⏭️ 下一步
 
-完成 Level 2 后,进入 [[../Level-3-Extension-Systems/README|Level 3: Extension Systems]]
+完成 Level 2 后,进入 [Level 3: Extension Systems](../Level-3-Extension-Systems/README.md)

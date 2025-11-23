@@ -28,7 +28,7 @@ linter-yaml-title-alias: Claude Code 使用技巧
 
 ### CLAUDE.md
 
-见 [[CLAUDE.md文件]]
+见 [CLAUDE.md文件](CLAUDE.md文件.md)
 
 ### 文件/文件夹/图片上下文
 

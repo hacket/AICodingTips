@@ -518,7 +518,7 @@ gh issue close <issue-number>
 
 - [GitHub CLI 官方文档](https://cli.github.com/manual/)
 - [Conventional Commits 规范](https://www.conventionalcommits.org/)
-- [[Level-3-Extension-Systems/Slash-Commands-Guide|Slash Commands 完整指南]]
+- [Slash Commands 完整指南](Level-3-Extension-Systems/Slash-Commands-Guide.md)
 
 ---
 

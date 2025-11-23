@@ -1103,9 +1103,9 @@ SuperClaude 命令广泛集成了多个 MCP Server,以提供增强的功能:
 
 ## 学习资源
 
-- [[Level-3-Extension-Systems/Slash-Commands-Guide|Slash Commands 完整指南]]
-- [[Level-3-Extension-Systems/MCP-Integration|MCP Server 集成]]
-- [[Level-3-Extension-Systems/Sub-Agents|Sub Agents 系统]]
+- [Slash Commands 完整指南](Level-3-Extension-Systems/Slash-Commands-Guide.md)
+- [MCP Server 集成](Level-3-Extension-Systems/MCP-Integration.md)
+- [Sub Agents 系统](Level-3-Extension-Systems/Sub-Agents.md)
 
 ---
 

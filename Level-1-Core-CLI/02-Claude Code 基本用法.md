@@ -155,7 +155,7 @@ function cc() {
 
 ## MCP 服务器
 
-见：[[Claude Code MCP]]
+见：[Claude Code MCP](Claude%20Code%20MCP.md)
 
 ## Claude SDK
 
@@ -534,11 +534,11 @@ Claude Code 提供两个选项来恢复之前的对话：
 
 ## Claude Code 命令
 
-见：[[03-Cladue Code常用命令参考]]
+见：[03-Cladue Code常用命令参考](03-Cladue%20Code常用命令参考.md)
 
 ## Claude Code 技巧
 
-见：[[03-Claude Code 使用技巧]]
+见：[03-Claude Code 使用技巧](03-Claude%20Code%20使用技巧.md)
 
 ## Token 成本管理技巧
 
@@ -552,7 +552,7 @@ Claude Code 提供两个选项来恢复之前的对话：
 
 #### ccusage
 
-见：[[01-Claude Code 开源项目汇总]]
+见：[01-Claude Code 开源项目汇总](01-Claude%20Code%20开源项目汇总.md)
 
 ### 减少上下文消耗
 

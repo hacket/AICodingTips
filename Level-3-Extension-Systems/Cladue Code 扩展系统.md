@@ -107,11 +107,11 @@ Claue Code v 2.x 版本，按 Tab 切换，开启 Thinking 模式时输入框会
 
 一个复杂示例：通过钩子检查 TS 文件（`.ts` 或 `.tsx`）的类型错误，并阻止 AI 继续执行，直到问题解决。这种自动化机制大大减少了手动调试的时间
 
-见 [[Claude Code Hooks]]
+见 [Claude Code Hooks](Claude%20Code%20Hooks.md)
 
 ## Claude Code Sub Agents 子代理
 
-见 [[Claude Code Sub Agents]]
+见 [Claude Code Sub Agents](Claude%20Code%20Sub%20Agents.md)
 
 ## Claude Code output-styles
 
@@ -123,7 +123,7 @@ Claue Code v 2.x 版本，按 Tab 切换，开启 Thinking 模式时输入框会
 
 ## Claude Code Skills
 
-见 : [[Claude Agent Skill（官方）]]
+见 : [Claude Agent Skill（官方）](Claude%20Agent%20Skill（官方）.md)
 
 ## 其他
 
@@ -155,4 +155,4 @@ Claude Code GitHub Actions 是一套 AI 驱动的 GitHub 自动化工具，旨�
 
 ### Claude Code 用其他 LLM
 
-见：[[Claude Code使用其他大模型]]
+见：[Claude Code使用其他大模型](Claude%20Code使用其他大模型.md)

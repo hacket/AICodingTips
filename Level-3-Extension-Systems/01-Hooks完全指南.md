@@ -377,7 +377,7 @@ fi
 该功能还解决了 monorepo 挑战，其中需要根据包含更改的目录运行不同的 linter 和工具。
 
 ```shell
-[[hooks]]
+[hooks](hooks.md)
 event = "PostToolUse"
 [hooks.matcher]
 tool_name = "edit_file"
@@ -421,7 +421,7 @@ repos:
 Hooks 可以触发你的持续集成工作流程：
 
 ```yaml
-[[hooks]]
+[hooks](hooks.md)
 event = "Stop"
 command = """
 if [ -n "$(git status --porcelain)" ]; then
