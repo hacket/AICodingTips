@@ -8,9 +8,10 @@
 
 ```
 Prompt Engineering/
-├── role/          # 角色扮演类 Prompt
-├── plan/          # 规划思考类 Prompt
-└── 开发/          # 代码开发类 Prompt
+├── role/          # 角色扮演类 Prompt (手写示例)
+├── plan/          # 规划思考类 Prompt (手写示例)
+├── 开发/          # 代码开发类 Prompt (手写示例)
+└── prompthub/     # PromptHub 精选集 (24 个分类 Prompt)
 ```
 
 ---
@@ -117,14 +118,49 @@ Prompt Engineering/
 
 ---
 
+## 🎁 PromptHub 精选集
+
+### [24 个实用 Prompt](prompthub/)
+
+从 PromptHub 精选的 24 个优质 Prompt,按类别整理:
+
+**📚 学习类 (9 个)**
+- 互动式教学（苏格拉底式）、QuickLearnKnowledge-V2
+- 费曼学习助手、概念解释器、学习计划制定
+- GeniusBoost、语言教练、图书推荐
+- 更多...
+
+**💻 开发类 (5 个)**
+- 代码审查专家、代码解释器
+- SQL 查询优化、Git Commit 生成
+- 项目命名 Master
+
+**✍️ 写作类 (3 个)**
+- 文章润色大师、周报日报生成器、邮件撰写助手
+
+**🌏 翻译类 (2 个)**
+- 专业翻译、技术文档翻译
+
+**🤖 AI 分析类 (2 个)**
+- 思维链分析、文本摘要
+
+**🎯 其他 (3 个)**
+- Professor-Synapse、Lyra、古诗词配图
+
+[👉 查看完整列表和详细说明](prompthub/)
+
+---
+
 ## 💡 使用建议
 
 ### 如何选择合适的 Prompt
 
 1. **明确你的目标**
-   - 需要角色扮演? → 查看 `role/`
-   - 需要深度思考? → 查看 `plan/`
-   - 编程相关? → 查看 `开发/`
+   - 手写精品示例 → `role/`、`plan/`、`开发/`
+   - 系统化分类集合 → `prompthub/`
+   - 学习相关 → `prompthub/学习/`
+   - 编程开发 → `prompthub/开发/` 或 `开发/`
+   - 写作翻译 → `prompthub/写作/` 或 `prompthub/翻译/`
 
 2. **组合使用**
    - 可以将多个 Prompt 组合使用
